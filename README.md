@@ -1,6 +1,6 @@
 # NeetCode Solutions — @Abhiman1211
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-wjl8pphb`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `Practice-Is-Important`
 
 ---
 
